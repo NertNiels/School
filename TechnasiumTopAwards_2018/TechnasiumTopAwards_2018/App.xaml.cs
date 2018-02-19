@@ -13,7 +13,7 @@ namespace TechnasiumTopAwards_2018
 		{
 			InitializeComponent();
 
-			MainPage = new TechnasiumTopAwards_2018.MainPage();
+			MainPage = new TechnasiumTopAwards_2018.Notifications();
 		}
 
 		protected override void OnStart ()

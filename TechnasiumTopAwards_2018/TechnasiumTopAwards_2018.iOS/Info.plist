@@ -22,8 +22,6 @@
 	</array>
 	<key>MinimumOSVersion</key>
 	<string>10.3</string>
-	<key>CFBundleDisplayName</key>
-	<string>TechnasiumTopAwards_2018</string>
 	<key>CFBundleIdentifier</key>
 	<string>com.yourcompany.TechnasiumTopAwards_2018</string>
 	<key>CFBundleVersion</key>
@@ -50,5 +48,7 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleName</key>
 	<string>TechnasiumTopAwards_2018</string>
+	<key>CFBundleDisplayName</key>
+	<string>VirusHelper</string>
 </dict>
 </plist>

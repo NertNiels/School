@@ -21,6 +21,8 @@ namespace TechnasiumTopAwards_2018.UWP
         {
             this.InitializeComponent();
 
+            Xamarin.FormsMaps.Init("INSERT_AUTHENTICATION_TOKEN_HERE");
+
             LoadApplication(new TechnasiumTopAwards_2018.App());
         }
     }
